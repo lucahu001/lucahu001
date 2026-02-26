@@ -1,6 +1,6 @@
 ## Hi there I am Luca Hu👋  
 
-🙋🏻‍♂️ Who am I: student studying at National Chengchi University, fourth-year student<br>
+🙋🏻‍♂️ Who am I: student studying at National Chengchi University (Taiwan), fourth-year student<br>
 👨🏻‍💻 Skills: self-learning python, html, javascript and deep-learning<br>
 🎾 Hobbies: tennis, badminton, baseball and movies<br>
 thanks for your time!
