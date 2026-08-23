@@ -5,9 +5,7 @@
 🌱 Currently learning: Java, Python, JavaScript, HTML and deep learning fundamentals  
 🎾 Off-screen: tennis, badminton, baseball, and films  
 
-<hr>
-
-  ### Tech Stack
+### Tech Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
@@ -15,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
 </p>
 
-  ### My contact
+### My contact
 <p align="left">
   <a href="mailto:lucahu0920@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
